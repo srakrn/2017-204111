@@ -1,3 +1,10 @@
+'''
+=== Matrix Multiplication === 
+This initialises the use of NumPy, a library which
+will be taught on the next half session of the semester,
+alongside with data tools like scikit, matplotlib.
+'''
+
 import numpy
 
 rows_a = int(input("Rows of matrix a: "))
